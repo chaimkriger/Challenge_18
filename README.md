@@ -14,4 +14,4 @@ Finally, I create additional user input areas in the Streamlit application. Thes
 
 What is Streamlit? Streamlit tue=rns data scripts into shareable web apps in minutes. All in Python. Below is a screenshot of the blockchain application which I launched on Streamlit
 
-
+![screenshot of Streamlit Blockchain app]
