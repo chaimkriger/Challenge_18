@@ -134,8 +134,9 @@ class PyChain:
 
             block_hash = block.hash_block()
 
-        print("Blockchain is Valid")
-        return True
+        
+        return "Blockchain is Valid"
+        
 
 ################################################################################
 # Streamlit Code
