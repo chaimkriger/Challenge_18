@@ -12,7 +12,7 @@ Finally, I create additional user input areas in the Streamlit application. Thes
 
 --- 
 
-What is Streamlit? Streamlit tue=rns data scripts into shareable web apps in minutes. All in Python. Below is a screenshot of the blockchain application when launched on Streamlit
+What is Streamlit? Streamlit turns data scripts into shareable web apps in minutes. All in Python. Below is a screenshot of the blockchain application when launched on Streamlit
 
 ![screenshot of Streamlit Blockchain app](https://raw.githubusercontent.com/chaimkriger/Challenge_18/main/Screenshot%20(79).png)
 
@@ -24,7 +24,7 @@ This project leverages Python 3.7, and Streamlit
 
 ## Installation Guide
 
-Before running this application, Python must be installed. The user can install Streamlit by simply oprning the desired enviroment, and typing "!pip install streamlit"
+Before running this application, Python must be installed. The user can install Streamlit by simply opening the desired enviroment, and typing "!pip install streamlit"
 
 ---
 
